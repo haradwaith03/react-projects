@@ -1,4 +1,4 @@
-# Simple note page
+# Simple note page 📝 
 
 ![](https://github.com/haradwaith03/react-projects/blob/main/notes/Note.PNG)
 
